@@ -47,11 +47,6 @@
 			<scope>test</scope>
 		</dependency>
 		<dependency>
-			<groupId>com.tunehub.springboot</groupId>
-			<artifactId>com.tunehub</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
-		</dependency>
-		<dependency>
  			<groupId>com.razorpay</groupId>
  			<artifactId>razorpay-java</artifactId>
  			<version>1.4.4</version>
