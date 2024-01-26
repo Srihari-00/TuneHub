@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html xmlns:th = "https://www.thymeleaf.org">
+<head>
+<meta charset="ISO-8859-1">
+
+	<meta charset="UTF-8">
+<title>Registration Module</title>
+<style type="text/css">
+	body{
+		background-color: aqua;
+		align-content: center;
+	}
+</style>
+</head>
+<body>
+	<!-- Register html code -->
+	<form action="validate" method="post">
+		<label>UserName : </label>
+		<input type="text" name="username" required><br><br>
+		<label>Email : </label>
+		<input type="email" name="email" required><br><br>
+		<label>Password : </label>
+		<input type="password" name="password" required><br><br>
+		<label>Gender : </label>
+		<input type="radio" name="gender" value="male" required><label>Male</label>
+		<input type="radio" name="gender" value="female" required><label>Female</label>
+		<input type="radio" name="gender" value="others" required><label>Others</label><br><br>
+		<label>Role : </label>
+		<input type="radio" name="role" value="admin" required><label>Admin</label>
+		<input type='radio' name="role" value='customer' required><label>Customer</label><br><br>
+		<label>Address : </label>
+		<textarea name='address' required></textarea><br><br>
+		<input type='submit' value="Register">
+		
+	</form>
+</body>
+</html>

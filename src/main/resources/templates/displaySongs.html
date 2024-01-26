@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html xmlns:th="https://www.thymeleaf.org">
+<head>
+	<meta charset="ISO-8859-1">
+	
+	<meta charset="UTF-8">
+	<title>All The songs present</title>
+	<style type='text/css' >
+		iframe{
+			height:100px;
+			width:500px;
+		}
+		table{
+			background-color: yellow;
+		}
+		audio{
+			background-color: rgb(255,125,125);
+		}
+	</style>
+</head>
+<body>
+	<table border=1>
+		<thead>
+			<tr>
+				<th>Name</th>
+				<th>Artist</th>
+				<th>Genre</th>
+				<th>Play</th>
+			</tr>
+		</thead>
+		
+		<tbody>
+			<tr th:each = "song : ${songs}">
+				<td th:text="${song.name}"></td>
+				<td th:text="${song.artist}"></td>
+				<td th:text="${song.genre}"></td>
+				<td >
+					<audio controls>
+						<source th:src="${song.link}" type="audio/mpeg" >
+					</audio>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+
+</body>
+</html>
