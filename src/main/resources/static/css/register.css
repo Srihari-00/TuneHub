@@ -1,0 +1,41 @@
+/* Responsive Design */
+.center {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.form-tag {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="password"],
+textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.submit-button {
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+/* Music Animation Background */
+body {
+    background-image: url('music_notes.jpg');
+    background-size: cover;
+    background-position: center;
+    animation: animateBackground 10s linear infinite;
+}
+
+@keyframes animateBackground {
+    0% { background-position: 0 0; }
+    100% { background-position: 100% 100%; }
+}

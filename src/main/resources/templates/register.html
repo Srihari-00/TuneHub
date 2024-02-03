@@ -5,33 +5,32 @@
 
 	<meta charset="UTF-8">
 <title>Registration Module</title>
-<style type="text/css">
-	body{
-		background-color: aqua;
-		align-content: center;
-	}
-</style>
+<link rel='stylesheet' th:href='@{/css/register.css}'>
 </head>
 <body>
 	<!-- Register html code -->
-	<form action="validate" method="post">
-		<label>UserName : </label>
-		<input type="text" name="username" required><br><br>
-		<label>Email : </label>
-		<input type="email" name="email" required><br><br>
-		<label>Password : </label>
-		<input type="password" name="password" required><br><br>
-		<label>Gender : </label>
-		<input type="radio" name="gender" value="male" required><label>Male</label>
-		<input type="radio" name="gender" value="female" required><label>Female</label>
-		<input type="radio" name="gender" value="others" required><label>Others</label><br><br>
-		<label>Role : </label>
-		<input type="radio" name="role" value="admin" required><label>Admin</label>
-		<input type='radio' name="role" value='customer' required><label>Customer</label><br><br>
-		<label>Address : </label>
-		<textarea name='address' required></textarea><br><br>
-		<input type='submit' value="Register">
-		
-	</form>
+	
+	<div class='center'>
+	<img th:src="@{/static/images/music.jpg}" />
+		<h1>SIGN-UP</h1>
+		<form action="validate" method="post" class='form-tag'>
+			<label>UserName : </label>
+			<input type="text" name="username" required><br><br>
+			<label>Email : </label>
+			<input type="email" name="email" required><br><br>
+			<label>Password : </label>
+			<input type="password" name="password" required><br><br>
+			<label>Gender : </label>
+			<input type="radio" name="gender" value="male" required><label>Male</label>
+			<input type="radio" name="gender" value="female" required><label>Female</label>
+			<input type="radio" name="gender" value="others" required><label>Others</label><br><br>
+			<label>Role : </label>
+			<input type="radio" name="role" value="admin" required><label>Admin</label>
+			<input type='radio' name="role" value='customer' required><label>Customer</label><br><br>
+			<label>Address : </label>
+			<textarea name='address' required></textarea><br><br>
+			<input class='submit-button' type='submit' value="Register">
+		</form>
+	</div>
 </body>
 </html>

@@ -1,0 +1,70 @@
+/* Body styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url('music_background.jpg');
+    background-size: cover;
+    background-position: center;
+    animation: parallax 25s linear infinite;
+}
+
+@keyframes parallax {
+    0% {
+        background-position: 0% 0%;
+    }
+    100% {
+        background-position: 100% 0%;
+    }
+}
+
+/* Center the content */
+div {
+    text-align: center;
+}
+
+/* Form container */
+form {
+    width: 300px;
+    margin: 20px auto;
+    background-color: rgba(255, 255, 255, 0.8); /* Add transparency for better readability */
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Form header */
+h1 {
+    color: #333;
+}
+
+/* Form labels */
+label {
+    display: block;
+    margin-bottom: 5px;
+    color: #333;
+}
+
+/* Form input fields */
+input[type="email"],
+input[type="password"] {
+    width: calc(100% - 30px);
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    float: left;
+}
+
+/* Show Password icon */
+.toggle-password {
+    float: right;
+    cursor: pointer;
+    color: #007bff;
+    margin-top: 8px;
+}
+
+.toggle-password:hover {
+    text-decoration: none;
+}

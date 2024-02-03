@@ -1,27 +1,40 @@
 <!DOCTYPE html>
 <html>
-<head>
-<meta charset="ISO-8859-1">
-
-	<meta charset="UTF-8">
+<head xmlns:th="http://www.thymeleaf.org">
+<meta charset="UTF-8">
 <title>LogIn Module</title>
-<style type="text/css">
-	body{
-		background-color: green;
-	}
-</style>
+<link rel="stylesheet" th:href="@{/css/login.css}">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
 </head>
 <body>
+<div>
+<h1>SIGN-IN</h1></div>
 <form action="validation" method="post">
-		
-		<label>Email : </label>
-		<input type="email" name="email" placeholder='enter your email'><br><br>
-		<label>Password : </label>
-		<input type="password" name="password" placeholder='enter your password'><br>
-		<br><br>
-		
-		<input type='submit' value="LOGIN">
-		
-	</form>
+    <label>Email : </label>
+    <input type="email" name="email" placeholder='enter your email'><br><br>
+    <label>Password : </label>
+    <div class="password-container">
+        <input type="password" name="password" id="password" placeholder='enter your password'>
+        <span class="toggle-password" onclick="togglePassword()"><i class="fas fa-eye"></i></span>
+    </div>
+    <br><br>
+    <input  type='submit' value="LOGIN">    
+</form>
+
+<script>
+function togglePassword() {
+    var passwordInput = document.getElementById("password");
+    var toggleIcon = document.querySelector(".toggle-password i");
+    if (passwordInput.type === "password") {
+        passwordInput.type = "text";
+        toggleIcon.classList.remove("fa-eye");
+        toggleIcon.classList.add("fa-eye-slash");
+    } else {
+        passwordInput.type = "password";
+        toggleIcon.classList.remove("fa-eye-slash");
+        toggleIcon.classList.add("fa-eye");
+    }
+}
+</script>
 </body>
 </html>
