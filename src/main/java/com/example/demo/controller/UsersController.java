@@ -34,7 +34,7 @@ public class UsersController
 		else {
 			return "login";
 		}
-		return "home";
+		return "index";
 	}
 	@PostMapping("/validation")
 	public String validate(@ModelAttribute LoginData data,

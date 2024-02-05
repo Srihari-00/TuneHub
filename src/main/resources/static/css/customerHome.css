@@ -1,0 +1,67 @@
+@charset "ISO-8859-1";
+/* Styles for the Customer HomePage */
+
+/* Reset default browser styles */
+body, h2, table {
+    margin: 0;
+    padding: 0;
+}
+
+/* Centering h2 */
+h2 {
+    text-align: center;
+}
+
+/* Styling for non-premium section */
+.non-premium {
+    text-align: center;
+    margin-top: 50px; /* Adjust as needed */
+    justify-content: center;
+    background-color: rgb(250,140,220);
+}
+
+.non-premium a {
+    display: block;
+    margin-bottom: 20px;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    justify-content: center;
+}
+
+.non-premium a:hover {
+    background-color: #0056b3;
+    
+}
+
+/* Styling for premium section */
+.premium {
+    margin-top: 50px; /* Adjust as needed */
+}
+
+/* Styling for table */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px; /* Adjust as needed */
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+}
+
+th {
+    background-color: rgb(210, 180, 240);
+}
+
+/* Styling for audio controls */
+audio {
+    width: 100%;
+}

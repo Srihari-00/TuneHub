@@ -10,16 +10,15 @@
 <body>
 	<!-- Register html code -->
 	
-	<div class='center'>
-	<img th:src="@{/static/images/music.jpg}" />
-		<h1>SIGN-UP</h1>
+	<div class='center'>		
 		<form action="validate" method="post" class='form-tag'>
+		<h3>SIGN-UP</h3>
 			<label>UserName : </label>
-			<input type="text" name="username" required><br><br>
+			<input type="text" name="username" placeholder="username" required><br><br>
 			<label>Email : </label>
-			<input type="email" name="email" required><br><br>
+			<input type="email" name="email" placeholder="email" required><br><br>
 			<label>Password : </label>
-			<input type="password" name="password" required><br><br>
+			<input type="password" name="password" placeholder="password" required><br><br>
 			<label>Gender : </label>
 			<input type="radio" name="gender" value="male" required><label>Male</label>
 			<input type="radio" name="gender" value="female" required><label>Female</label>

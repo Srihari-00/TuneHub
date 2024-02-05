@@ -33,6 +33,8 @@ body {
     background-size: cover;
     background-position: center;
     animation: animateBackground 10s linear infinite;
+    
+    background-color: rgb(210, 180, 240);
 }
 
 @keyframes animateBackground {

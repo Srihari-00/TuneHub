@@ -1,0 +1,44 @@
+@charset "ISO-8859-1";
+/* Reset default browser styles */
+body, table, th, td {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+/* Centering table */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px auto;
+}
+
+/* Styling for table headers */
+th {
+    background-color: #f2f2f2; /* Light grey background color */
+    color: #333; /* Dark grey text color */
+    padding: 10px;
+    text-align: left;
+    border: 1px solid #ddd;
+}
+
+/* Styling for table cells */
+td {
+    padding: 10px;
+    border: 1px solid #ddd;
+}
+
+/* Styling for audio controls */
+audio {
+    vertical-align: middle;
+}
+
+/* Styling for alternate row colors */
+tbody tr:nth-child(even) {
+    background-color: #f9f9f9; /* Light grey background color for even rows */
+}
+
+/* Styling for hover effect */
+tbody tr:hover {
+    background-color: #f0f0f0; /* Lighter grey background color on hover */
+}

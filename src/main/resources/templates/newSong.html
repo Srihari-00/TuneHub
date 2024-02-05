@@ -1,12 +1,15 @@
 <!DOCTYPE html>
-<html>
+<html xmlns:th='http://www.thymeeleaf.org'>
 <head>
 <meta charset="ISO-8859-1">
 
 	<meta charset="UTF-8">
 <title>Adding a new Song</title>
+<link rel='stylesheet' th:href='@{/css/newSong.css}' >
 </head>
 <body>
+<div>
+	<h4>Enter Song details</h4>
 	<form action="addSong" method="post">
 		<label>Song Name : </label>
 		<input type='text' name='name' /><br><br>
@@ -18,6 +21,6 @@
 		<input type='text' name='link' /><br><br>
 		<input type="submit" value='ADD SONG' />
 	</form>
-
+</div>
 </body>
 </html>
