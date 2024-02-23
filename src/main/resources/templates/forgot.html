@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+<meta charset="UTF-8">
+<title>forgot password</title>
+<link rel="stylesheet" th:href="@{/css/forgot.css}">
+</head>
+<body>
+
+<div class="container">
+    <h2>Forgot Password</h2>
+    <form action="setPassword" method="post">
+        <label>Enter your email:</label><br>
+        <input type="email" name="email" placeholder="Enter your email">
+        <br><br>
+        <input type="submit" value="Request OTP">
+    </form>
+</div>
+
+</body> 
+</html>

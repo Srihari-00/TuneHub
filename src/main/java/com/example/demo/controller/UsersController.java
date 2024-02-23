@@ -8,8 +8,11 @@ import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
+import org.thymeleaf.spring6.util.DetailedError;
 
+import com.example.demo.entity.ForgotPassword;
 import com.example.demo.entity.LoginData;
 import com.example.demo.entity.Song;
 import com.example.demo.entity.Users;
@@ -78,4 +81,7 @@ public class UsersController
 		session.invalidate();
 		return "login";
 	}
+	
+	
+	
 }

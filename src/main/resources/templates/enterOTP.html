@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+<meta charset="UTF-8">
+<title>Enter New Password</title>
+<link rel="stylesheet" th:href="@{/css/enterOTP.css}"> <!-- Include Font Awesome CSS -->
+<script>
+    function toggleVisibility(inputId, iconId) {
+        var inputField = document.getElementById(inputId);
+        var icon = document.getElementById(iconId);
+
+        if (inputField.type === "password") {
+            inputField.type = "text";
+            icon.className = "fas fa-eye-slash"; // Change icon to slash when password is visible
+        } else {
+            inputField.type = "password";
+            icon.className = "fas fa-eye"; // Change icon to eye when password is hidden
+        }
+    }
+</script>
+</head>
+<body>
+	<div class="newPassword">
+		<h2>Creating a New Password</h2>
+		<form action='enterPassword' method='post'>
+			<div class="container">
+				<label class="l1">Enter the displaying email Id : </label>
+				<label class="l1" th:text="${email}"></label>
+			</div>
+			<input type="email" placeholder="enter email" name="email"><br><br>
+			<div class="captchaCode">
+				<div class="container2">
+					<label class="c1">Captcha Code : </label>
+					<label class="c1" th:text="${otp}"></label><br>
+				</div>
+				<label>Enter Captcha Code : </label>
+				<input type='password' id="captchaInput" name='otp' placeholder="Captcha code">
+				<i class="fas fa-eye" id="toggleCaptcha" onclick="toggleVisibility('captchaInput', 'toggleCaptcha')"></i> <!-- Eye icon for toggling captcha visibility -->
+			</div>
+			<br><br>
+			<label>Enter new Password : </label>
+			<input type="password" id="newPassword" name="password" placeholder="Enter new password">
+			<i class="fas fa-eye" id="toggleNewPassword" onclick="toggleVisibility('newPassword', 'toggleNewPassword')"></i> <!-- Eye icon for toggling password visibility -->
+			<br><br>
+			<label>Re-enter new Password : </label>
+			<input type="password" id="re_password" name="re_password" placeholder="Re-enter new password">
+			<i class="fas fa-eye" id="toggleReTypePassword" onclick="toggleVisibility('reTypePassword', 'toggleReTypePassword')"></i> <!-- Eye icon for toggling password visibility -->
+			<br><br>
+			<input type="submit" value="Reset Password">
+		</form>
+	</div>
+</body>
+</html>

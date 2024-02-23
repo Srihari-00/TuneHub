@@ -13,7 +13,7 @@ public class UsersServiceImplementation implements UsersService
 {
 	@Autowired
 	UsersRepository repo;
-	
+
 	@Override
 	public String addUser(Users user) {
 		repo.save(user);
@@ -42,7 +42,7 @@ public class UsersServiceImplementation implements UsersService
 
 	@Override
 	public String getRole(String email) {
-		
+
 		return repo.findByEmail(email).getRole();
 	}
 
@@ -55,6 +55,24 @@ public class UsersServiceImplementation implements UsersService
 	@Override
 	public void updateUser(Users user) {
 		repo.save(user);
-	}	
+	}
+
+	@Override
+	@Transactional
+	public String forgotPassword(String email, String newPass) {
+		Users user = repo.findByEmail(email);
+		if (user != null) 
+		{
+			user.setPassword(newPass);
+			repo.save(user); // Save the updated user entity
+			System.out.println("Password has been updated for user with email: " + email);
+			return "Password Changed";
+		} 
+		else
+		{
+			System.out.println("User with email " + email + " not found");
+			return "User not found";
+		}
+	}
 
 }

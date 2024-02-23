@@ -16,5 +16,8 @@ public interface UsersService
 	public Users getUser(String email);
 	//To update the user
 	public void updateUser(Users user);
+	
+	public String forgotPassword(String email, String newPass);
+	
 
 }
