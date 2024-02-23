@@ -1,18 +1,19 @@
 <!DOCTYPE html>
-<html>
+<html xmlns:th="https://www.thymeleaf.org">
 <head>
 <meta charset="ISO-8859-1">
 <meta charset="UTF-8">
 <title>Admin Home Page</title>
+<link rel='stylesheet' th:href='@{/css/adminHome.css}'>
 </head>
 <body>
-<div>
+<div id='admin'>
 	<form>
-		<h2>Admin Page</h2>
+		<h1>Admin Page</h1>
 		<br>
-		<br> <a href='newSong'>Add a new song</a><br>
-		<br> <a href='viewSongs'>View all the Songs</a><br>
-		<br> <a href='createPlaylist'>Create Playlist</a><br>
+		<br> <a href='newSong'>Add a new song</a>
+		<br> <a href='viewSongs'>View all the Songs</a>
+		<br> <a href='createPlaylist'>Create Playlist</a>
 		<br> <a href='viewPlaylists'>View all Playlists</a>
 	</form>
 </div>

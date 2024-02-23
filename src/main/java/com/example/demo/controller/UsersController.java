@@ -19,14 +19,14 @@ import jakarta.servlet.http.HttpSession;
 
 
 
-@CrossOrigin("*")
-@RestController
+@Controller
 public class UsersController 
 {
 	@Autowired
 	UsersService service;
 	@Autowired
 	SongService songService;
+	
 	@PostMapping("/validate")
 	public String addUser(@ModelAttribute Users user) 
 	{

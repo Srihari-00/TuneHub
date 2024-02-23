@@ -12,13 +12,13 @@
 	
 	<div class='center'>		
 		<form action="validate" method="post" class='form-tag'>
-		<h3>SIGN-UP</h3>
+		<h2>SIGN-UP</h2>
 			<label>UserName : </label>
-			<input type="text" name="username" placeholder="username" required><br><br>
+			<input type="text" name="username" placeholder="username" required><br>
 			<label>Email : </label>
-			<input type="email" name="email" placeholder="email" required><br><br>
+			<input type="email" name="email" placeholder="email" required><br>
 			<label>Password : </label>
-			<input type="password" name="password" placeholder="password" required><br><br>
+			<input type="password" name="password" placeholder="password" required><br>
 			<label>Gender : </label>
 			<input type="radio" name="gender" value="male" required><label>Male</label>
 			<input type="radio" name="gender" value="female" required><label>Female</label>
@@ -27,8 +27,10 @@
 			<input type="radio" name="role" value="admin" required><label>Admin</label>
 			<input type='radio' name="role" value='customer' required><label>Customer</label><br><br>
 			<label>Address : </label>
-			<textarea name='address' required></textarea><br><br>
-			<input class='submit-button' type='submit' value="Register">
+			<textarea name='address' required></textarea><br>
+			<input class='submit-button' type='submit' id='btn' value="Register">
+			<br>
+			<p>Already have an account? <a href="login">Sign In</a></p>
 		</form>
 	</div>
 </body>

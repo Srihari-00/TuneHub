@@ -7,6 +7,7 @@
 .form-tag {
     max-width: 400px;
     margin: 0 auto;
+    color: white;
 }
 
 input[type="text"],
@@ -24,12 +25,19 @@ textarea {
     background-color: #007bff;
     color: white;
     border: none;
-    cursor: pointer;
+    border-radius: 15px;
+    font-size: 20px;
+    width: 100%;
+}
+
+#btn:hover{
+	cursor: pointer;
+	background-color: #0000a0;
 }
 
 /* Music Animation Background */
 body {
-    background-image: url('music_notes.jpg');
+    background-image: url('/images/userPlay.jpg');
     background-size: cover;
     background-position: center;
     animation: animateBackground 10s linear infinite;
@@ -40,4 +48,9 @@ body {
 @keyframes animateBackground {
     0% { background-position: 0 0; }
     100% { background-position: 100% 100%; }
+}
+
+h2{
+	justify-content: center;
+	text-align: center;
 }

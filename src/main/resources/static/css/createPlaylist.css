@@ -1,13 +1,12 @@
 @charset "ISO-8859-1";
+
 /* Reset default browser styles */
 body, form, input, label {
     margin: 0;
     padding: 0;
     font-family: Arial, sans-serif;
 }
-body{
-	background-color: aqua;
-}
+
 /* Centering form */
 form {
     width: 50%;
@@ -16,7 +15,8 @@ form {
 
 /* Styling for labels */
 label {
-    display: block;
+    display: flex; /* Use flexbox to align checkboxes and text */
+    align-items: center; /* Align items vertically */
     margin-bottom: 10px;
 }
 
@@ -42,7 +42,7 @@ input[type="checkbox"] {
 /* Styling for submit button */
 input[type="submit"] {
     background-color: #007bff;
-    color: #fff;
+    color: white;
     padding: 10px 20px;
     border: none;
     border-radius: 4px;
@@ -51,4 +51,18 @@ input[type="submit"] {
 
 input[type="submit"]:hover {
     background-color: #0056b3;
+}
+
+/* Background color and image for the body */
+body {
+    background-color: aqua;
+    background-image: url('/images/createPlaylist.jpg');
+    background-size: cover; /* Cover the entire viewport */
+    background-position: center; /* Center the background image */
+}
+
+/* Ensure text is visible */
+label span {
+    margin-left: 5px; /* Add spacing between checkbox and text */
+    color: black; /* Set text color */
 }

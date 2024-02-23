@@ -4,6 +4,19 @@ body, div, form, input, label {
     padding: 0;
     font-family: Arial, sans-serif;
     background-color: rgb(230, 230, 250);
+    opacity: 0.1px;
+}
+form{
+	opacity: 0.5px;
+	border-radius: 15px;
+	color: black;
+}
+/* Add background image */
+body {
+    background-image: url('/images/addSong.jpg'); /* Replace 'your-image-url.jpg' with the URL or path to your image */
+    background-size: cover; /* Cover the entire background */
+    background-position: center; /* Center the background image */
+    opacity: 5px;
 }
 
 /* Centering form */
