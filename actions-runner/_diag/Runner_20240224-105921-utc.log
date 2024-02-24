@@ -1,0 +1,188 @@
+[2024-02-24 10:59:21Z INFO HostContext] No proxy settings were found based on environmental variables (http_proxy/https_proxy/HTTP_PROXY/HTTPS_PROXY)
+[2024-02-24 10:59:21Z INFO HostContext] Well known directory 'Bin': 'C:\Users\sriha\Documents\workspace-spring-tool-suite-4-4.21.0.RELEASE\TuneHub\actions-runner\bin'
+[2024-02-24 10:59:21Z INFO HostContext] Well known directory 'Root': 'C:\Users\sriha\Documents\workspace-spring-tool-suite-4-4.21.0.RELEASE\TuneHub\actions-runner'
+[2024-02-24 10:59:21Z INFO HostContext] Well known config file 'Credentials': 'C:\Users\sriha\Documents\workspace-spring-tool-suite-4-4.21.0.RELEASE\TuneHub\actions-runner\.credentials'
+[2024-02-24 10:59:21Z INFO HostContext] Well known directory 'Bin': 'C:\Users\sriha\Documents\workspace-spring-tool-suite-4-4.21.0.RELEASE\TuneHub\actions-runner\bin'
+[2024-02-24 10:59:21Z INFO HostContext] Well known directory 'Root': 'C:\Users\sriha\Documents\workspace-spring-tool-suite-4-4.21.0.RELEASE\TuneHub\actions-runner'
+[2024-02-24 10:59:21Z INFO HostContext] Well known config file 'Runner': 'C:\Users\sriha\Documents\workspace-spring-tool-suite-4-4.21.0.RELEASE\TuneHub\actions-runner\.runner'
+[2024-02-24 10:59:21Z INFO Listener] Runner is built for Windows (X64) - win-x64.
+[2024-02-24 10:59:21Z INFO Listener] RuntimeInformation: Microsoft Windows 10.0.22631.
+[2024-02-24 10:59:21Z INFO Listener] Version: 2.313.0
+[2024-02-24 10:59:21Z INFO Listener] Commit: d502c4623e5cd140e949f1e644ffe03762bd4151
+[2024-02-24 10:59:21Z INFO Listener] Culture: en-US
+[2024-02-24 10:59:21Z INFO Listener] UI Culture: en-US
+[2024-02-24 10:59:21Z INFO HostContext] Well known directory 'Bin': 'C:\Users\sriha\Documents\workspace-spring-tool-suite-4-4.21.0.RELEASE\TuneHub\actions-runner\bin'
+[2024-02-24 10:59:21Z INFO HostContext] Well known directory 'Root': 'C:\Users\sriha\Documents\workspace-spring-tool-suite-4-4.21.0.RELEASE\TuneHub\actions-runner'
+[2024-02-24 10:59:21Z INFO Listener] Validating directory permissions for: 'C:\Users\sriha\Documents\workspace-spring-tool-suite-4-4.21.0.RELEASE\TuneHub\actions-runner'
+[2024-02-24 10:59:21Z INFO CommandLineParser] Parse
+[2024-02-24 10:59:21Z INFO CommandLineParser] Parsing 1 args
+[2024-02-24 10:59:21Z INFO CommandLineParser] parsing argument
+[2024-02-24 10:59:21Z INFO CommandLineParser] HasArgs: False
+[2024-02-24 10:59:21Z INFO CommandLineParser] Adding Command: run
+[2024-02-24 10:59:21Z INFO Listener] Arguments parsed
+[2024-02-24 10:59:21Z INFO Runner] ExecuteCommand
+[2024-02-24 10:59:21Z INFO ConfigurationStore] currentAssemblyLocation: C:\Users\sriha\Documents\workspace-spring-tool-suite-4-4.21.0.RELEASE\TuneHub\actions-runner\bin\Runner.Listener.dll
+[2024-02-24 10:59:21Z INFO HostContext] Well known directory 'Bin': 'C:\Users\sriha\Documents\workspace-spring-tool-suite-4-4.21.0.RELEASE\TuneHub\actions-runner\bin'
+[2024-02-24 10:59:21Z INFO ConfigurationStore] binPath: C:\Users\sriha\Documents\workspace-spring-tool-suite-4-4.21.0.RELEASE\TuneHub\actions-runner\bin
+[2024-02-24 10:59:21Z INFO HostContext] Well known directory 'Bin': 'C:\Users\sriha\Documents\workspace-spring-tool-suite-4-4.21.0.RELEASE\TuneHub\actions-runner\bin'
+[2024-02-24 10:59:21Z INFO HostContext] Well known directory 'Root': 'C:\Users\sriha\Documents\workspace-spring-tool-suite-4-4.21.0.RELEASE\TuneHub\actions-runner'
+[2024-02-24 10:59:21Z INFO ConfigurationStore] RootFolder: C:\Users\sriha\Documents\workspace-spring-tool-suite-4-4.21.0.RELEASE\TuneHub\actions-runner
+[2024-02-24 10:59:21Z INFO HostContext] Well known directory 'Bin': 'C:\Users\sriha\Documents\workspace-spring-tool-suite-4-4.21.0.RELEASE\TuneHub\actions-runner\bin'
+[2024-02-24 10:59:21Z INFO HostContext] Well known directory 'Root': 'C:\Users\sriha\Documents\workspace-spring-tool-suite-4-4.21.0.RELEASE\TuneHub\actions-runner'
+[2024-02-24 10:59:21Z INFO HostContext] Well known config file 'Runner': 'C:\Users\sriha\Documents\workspace-spring-tool-suite-4-4.21.0.RELEASE\TuneHub\actions-runner\.runner'
+[2024-02-24 10:59:21Z INFO ConfigurationStore] ConfigFilePath: C:\Users\sriha\Documents\workspace-spring-tool-suite-4-4.21.0.RELEASE\TuneHub\actions-runner\.runner
+[2024-02-24 10:59:21Z INFO HostContext] Well known directory 'Bin': 'C:\Users\sriha\Documents\workspace-spring-tool-suite-4-4.21.0.RELEASE\TuneHub\actions-runner\bin'
+[2024-02-24 10:59:21Z INFO HostContext] Well known directory 'Root': 'C:\Users\sriha\Documents\workspace-spring-tool-suite-4-4.21.0.RELEASE\TuneHub\actions-runner'
+[2024-02-24 10:59:21Z INFO HostContext] Well known config file 'Credentials': 'C:\Users\sriha\Documents\workspace-spring-tool-suite-4-4.21.0.RELEASE\TuneHub\actions-runner\.credentials'
+[2024-02-24 10:59:21Z INFO ConfigurationStore] CredFilePath: C:\Users\sriha\Documents\workspace-spring-tool-suite-4-4.21.0.RELEASE\TuneHub\actions-runner\.credentials
+[2024-02-24 10:59:21Z INFO HostContext] Well known directory 'Bin': 'C:\Users\sriha\Documents\workspace-spring-tool-suite-4-4.21.0.RELEASE\TuneHub\actions-runner\bin'
+[2024-02-24 10:59:21Z INFO HostContext] Well known directory 'Root': 'C:\Users\sriha\Documents\workspace-spring-tool-suite-4-4.21.0.RELEASE\TuneHub\actions-runner'
+[2024-02-24 10:59:21Z INFO HostContext] Well known config file 'MigratedCredentials': 'C:\Users\sriha\Documents\workspace-spring-tool-suite-4-4.21.0.RELEASE\TuneHub\actions-runner\.credentials_migrated'
+[2024-02-24 10:59:21Z INFO ConfigurationStore] MigratedCredFilePath: C:\Users\sriha\Documents\workspace-spring-tool-suite-4-4.21.0.RELEASE\TuneHub\actions-runner\.credentials_migrated
+[2024-02-24 10:59:21Z INFO HostContext] Well known directory 'Bin': 'C:\Users\sriha\Documents\workspace-spring-tool-suite-4-4.21.0.RELEASE\TuneHub\actions-runner\bin'
+[2024-02-24 10:59:21Z INFO HostContext] Well known directory 'Root': 'C:\Users\sriha\Documents\workspace-spring-tool-suite-4-4.21.0.RELEASE\TuneHub\actions-runner'
+[2024-02-24 10:59:21Z INFO HostContext] Well known config file 'Service': 'C:\Users\sriha\Documents\workspace-spring-tool-suite-4-4.21.0.RELEASE\TuneHub\actions-runner\.service'
+[2024-02-24 10:59:21Z INFO ConfigurationStore] ServiceConfigFilePath: C:\Users\sriha\Documents\workspace-spring-tool-suite-4-4.21.0.RELEASE\TuneHub\actions-runner\.service
+[2024-02-24 10:59:21Z INFO CommandSettings] Flag 'help': 'False'
+[2024-02-24 10:59:21Z INFO CommandSettings] Flag 'version': 'False'
+[2024-02-24 10:59:21Z INFO CommandSettings] Flag 'commit': 'False'
+[2024-02-24 10:59:21Z INFO CommandSettings] Flag 'check': 'False'
+[2024-02-24 10:59:21Z INFO CommandSettings] Command 'configure': 'False'
+[2024-02-24 10:59:21Z INFO CommandSettings] Command 'remove': 'False'
+[2024-02-24 10:59:21Z INFO CommandSettings] Command 'warmup': 'False'
+[2024-02-24 10:59:21Z INFO ConfigurationManager] LoadSettings
+[2024-02-24 10:59:21Z INFO ConfigurationStore] IsConfigured()
+[2024-02-24 10:59:21Z INFO ConfigurationStore] IsConfigured: True
+[2024-02-24 10:59:21Z INFO ConfigurationManager] Is configured: True
+[2024-02-24 10:59:21Z INFO ConfigurationStore] Read setting file: 304 chars
+[2024-02-24 10:59:21Z INFO ConfigurationManager] Settings Loaded
+[2024-02-24 10:59:21Z INFO ConfigurationStore] IsServiceConfigured()
+[2024-02-24 10:59:21Z INFO ConfigurationStore] IsServiceConfigured: False
+[2024-02-24 10:59:21Z INFO CommandSettings] Command 'run': 'True'
+[2024-02-24 10:59:21Z INFO ConfigurationStore] IsConfigured()
+[2024-02-24 10:59:21Z INFO ConfigurationStore] IsConfigured: True
+[2024-02-24 10:59:21Z INFO ConfigurationManager] Is configured: True
+[2024-02-24 10:59:21Z INFO Runner] Could not parse the argument value '' for StartupType. Defaulting to Manual
+[2024-02-24 10:59:21Z INFO Runner] Set runner startup type - Manual
+[2024-02-24 10:59:21Z INFO CommandSettings] Flag 'once': 'False'
+[2024-02-24 10:59:21Z INFO CommandSettings] Flag 'once': 'False'
+[2024-02-24 10:59:21Z INFO Runner] RunAsync
+[2024-02-24 10:59:21Z INFO ConfigurationManager] LoadSettings
+[2024-02-24 10:59:21Z INFO ConfigurationStore] IsConfigured()
+[2024-02-24 10:59:21Z INFO ConfigurationStore] IsConfigured: True
+[2024-02-24 10:59:21Z INFO ConfigurationManager] Is configured: True
+[2024-02-24 10:59:21Z INFO ConfigurationManager] Settings Loaded
+[2024-02-24 10:59:21Z INFO MessageListener] {
+  "AgentId": 21,
+  "AgentName": "LIGHTYAGAMI",
+  "PoolId": 1,
+  "PoolName": "Default",
+  "ServerUrl": "https://pipelinesghubeus7.actions.githubusercontent.com/aplPWYmUYQV2MbhzP7h8OY3ytkJqS6x6SOXzSjsg6VEw1g5vbQ/",
+  "GitHubUrl": "https://github.com/Srihari-00/TuneHub",
+  "WorkFolder": "_work"
+}
+[2024-02-24 10:59:21Z INFO MessageListener] Loading Credentials
+[2024-02-24 10:59:21Z INFO ConfigurationStore] HasCredentials()
+[2024-02-24 10:59:21Z INFO ConfigurationStore] stored True
+[2024-02-24 10:59:21Z INFO CredentialManager] GetCredentialProvider
+[2024-02-24 10:59:21Z INFO CredentialManager] Creating type OAuth
+[2024-02-24 10:59:21Z INFO CredentialManager] Creating credential type: OAuth
+[2024-02-24 10:59:21Z INFO HostContext] Well known directory 'Bin': 'C:\Users\sriha\Documents\workspace-spring-tool-suite-4-4.21.0.RELEASE\TuneHub\actions-runner\bin'
+[2024-02-24 10:59:21Z INFO HostContext] Well known directory 'Root': 'C:\Users\sriha\Documents\workspace-spring-tool-suite-4-4.21.0.RELEASE\TuneHub\actions-runner'
+[2024-02-24 10:59:21Z INFO HostContext] Well known config file 'RSACredentials': 'C:\Users\sriha\Documents\workspace-spring-tool-suite-4-4.21.0.RELEASE\TuneHub\actions-runner\.credentials_rsaparams'
+[2024-02-24 10:59:21Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\sriha\Documents\workspace-spring-tool-suite-4-4.21.0.RELEASE\TuneHub\actions-runner\.credentials_rsaparams
+[2024-02-24 10:59:21Z INFO MessageListener] Attempt to create session.
+[2024-02-24 10:59:21Z INFO MessageListener] Connecting to the Runner Server...
+[2024-02-24 10:59:21Z INFO RunnerServer] EstablishVssConnection
+[2024-02-24 10:59:21Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2024-02-24 10:59:21Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2024-02-24 10:59:21Z INFO RunnerServer] EstablishVssConnection
+[2024-02-24 10:59:21Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2024-02-24 10:59:21Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2024-02-24 10:59:21Z INFO RunnerServer] EstablishVssConnection
+[2024-02-24 10:59:21Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2024-02-24 10:59:21Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2024-02-24 10:59:22Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2024-02-24 10:59:22Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2024-02-24 10:59:22Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2024-02-24 10:59:22Z INFO MessageListener] VssConnection created
+[2024-02-24 10:59:22Z INFO Terminal] WRITE LINE: 
+[2024-02-24 10:59:22Z INFO Terminal] WRITE LINE: 
+[2024-02-24 10:59:23Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\sriha\Documents\workspace-spring-tool-suite-4-4.21.0.RELEASE\TuneHub\actions-runner\.credentials_rsaparams
+[2024-02-24 10:59:23Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\sriha\Documents\workspace-spring-tool-suite-4-4.21.0.RELEASE\TuneHub\actions-runner\.credentials_rsaparams
+[2024-02-24 10:59:25Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2024-02-24 10:59:25Z WARN GitHubActionsService] Retrieving an AAD auth token took a long time (2.057045 seconds)
+[2024-02-24 10:59:25Z INFO MessageListener] Session created.
+[2024-02-24 10:59:25Z INFO Terminal] WRITE LINE: Current runner version: '2.313.0'
+[2024-02-24 10:59:25Z INFO Terminal] WRITE LINE: 2024-02-24 10:59:25Z: Listening for Jobs
+[2024-02-24 10:59:25Z INFO JobDispatcher] Set runner/worker IPC timeout to 30 seconds.
+[2024-02-24 11:10:09Z WARN GitHubActionsService] GET request to https://pipelinesghubeus7.actions.githubusercontent.com/aplPWYmUYQV2MbhzP7h8OY3ytkJqS6x6SOXzSjsg6VEw1g5vbQ/_apis/distributedtask/pools/1/messages?sessionId=6078691f-0fa8-4c87-95e6-c11cad1370af&status=Online&runnerVersion=2.313.0&os=Windows&architecture=X64&disableUpdate=false timed out after 60 seconds.
+[2024-02-24 11:10:09Z ERR  MessageListener] Catch exception during get next message.
+[2024-02-24 11:10:09Z ERR  MessageListener] System.TimeoutException: The HTTP request timed out after 00:01:00.
+ ---> System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.IO.IOException: Unable to read data from the transport connection: The I/O operation has been aborted because of either a thread exit or an application request..
+ ---> System.Net.Sockets.SocketException (995): The I/O operation has been aborted because of either a thread exit or an application request.
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.EnsureFullTlsFrameAsync[TIOAdapter](TIOAdapter adapter)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](TIOAdapter adapter, Memory`1 buffer)
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithNtAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean isProxyAuth, HttpConnection connection, HttpConnectionPool connectionPool, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean preAuthenticate, Boolean isProxyAuth, Boolean doRequestAuth, HttpConnectionPool pool, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at GitHub.Services.Common.VssHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at GitHub.Services.Common.VssHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at GitHub.Services.Common.VssHttpRetryMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync(HttpRequestMessage message, HttpCompletionOption completionOption, Object userState, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync[T](HttpRequestMessage message, Object userState, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync[T](HttpMethod method, IEnumerable`1 additionalHeaders, Guid locationId, Object routeValues, ApiResourceVersion version, HttpContent content, IEnumerable`1 queryParameters, Object userState, CancellationToken cancellationToken)
+   at GitHub.Runner.Listener.MessageListener.GetNextMessageAsync(CancellationToken token)
+[2024-02-24 11:10:09Z ERR  MessageListener] #####################################################
+[2024-02-24 11:10:09Z ERR  MessageListener] System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.IO.IOException: Unable to read data from the transport connection: The I/O operation has been aborted because of either a thread exit or an application request..
+ ---> System.Net.Sockets.SocketException (995): The I/O operation has been aborted because of either a thread exit or an application request.
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.EnsureFullTlsFrameAsync[TIOAdapter](TIOAdapter adapter)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](TIOAdapter adapter, Memory`1 buffer)
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithNtAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean isProxyAuth, HttpConnection connection, HttpConnectionPool connectionPool, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean preAuthenticate, Boolean isProxyAuth, Boolean doRequestAuth, HttpConnectionPool pool, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at GitHub.Services.Common.VssHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+[2024-02-24 11:10:09Z ERR  MessageListener] #####################################################
+[2024-02-24 11:10:09Z ERR  MessageListener] System.IO.IOException: Unable to read data from the transport connection: The I/O operation has been aborted because of either a thread exit or an application request..
+ ---> System.Net.Sockets.SocketException (995): The I/O operation has been aborted because of either a thread exit or an application request.
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.EnsureFullTlsFrameAsync[TIOAdapter](TIOAdapter adapter)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](TIOAdapter adapter, Memory`1 buffer)
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+[2024-02-24 11:10:09Z ERR  MessageListener] #####################################################
+[2024-02-24 11:10:09Z ERR  MessageListener] System.Net.Sockets.SocketException (995): The I/O operation has been aborted because of either a thread exit or an application request.
+[2024-02-24 11:10:09Z INFO MessageListener] Retriable exception: The HTTP request timed out after 00:01:00.
+[2024-02-24 11:10:09Z ERR  Terminal] WRITE ERROR: 2024-02-24 11:10:09Z: Runner connect error: The HTTP request timed out after 00:01:00.. Retrying until reconnected.
+[2024-02-24 11:10:09Z INFO RunnerServer] Refresh MessageQueue VssConnection to get on a different AFD node.
+[2024-02-24 11:10:09Z INFO RunnerServer] EstablishVssConnection
+[2024-02-24 11:10:09Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2024-02-24 11:10:09Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2024-02-24 11:10:12Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2024-02-24 11:10:12Z INFO MessageListener] Sleeping for 25.893 seconds before retrying.
+[2024-02-24 11:11:29Z INFO Terminal] WRITE LINE: 2024-02-24 11:11:29Z: Runner reconnected.
+[2024-02-24 11:33:46Z INFO MessageListener] No message retrieved from session '6078691f-0fa8-4c87-95e6-c11cad1370af' within last 30 minutes.
+[2024-02-24 13:48:27Z WARN GitHubActionsService] Attempt 1 of GET request to https://pipelinesghubeus7.actions.githubusercontent.com/aplPWYmUYQV2MbhzP7h8OY3ytkJqS6x6SOXzSjsg6VEw1g5vbQ/_apis/distributedtask/pools/1/messages?sessionId=6078691f-0fa8-4c87-95e6-c11cad1370af&status=Online&runnerVersion=2.313.0&os=Windows&architecture=X64&disableUpdate=false failed (Socket Error: ConnectionReset). The operation will be retried in 11.013 seconds.
+[2024-02-24 14:43:11Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\sriha\Documents\workspace-spring-tool-suite-4-4.21.0.RELEASE\TuneHub\actions-runner\.credentials_rsaparams
+[2024-02-24 14:43:14Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2024-02-24 14:43:14Z WARN GitHubActionsService] Retrieving an AAD auth token took a long time (2.2998332 seconds)
+[2024-02-24 14:44:04Z INFO MessageListener] No message retrieved from session '6078691f-0fa8-4c87-95e6-c11cad1370af' within last 30 minutes.

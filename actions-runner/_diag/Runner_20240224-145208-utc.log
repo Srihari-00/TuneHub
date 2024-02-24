@@ -1,0 +1,331 @@
+[2024-02-24 14:52:08Z INFO HostContext] No proxy settings were found based on environmental variables (http_proxy/https_proxy/HTTP_PROXY/HTTPS_PROXY)
+[2024-02-24 14:52:08Z INFO HostContext] Well known directory 'Bin': 'C:\Users\sriha\Documents\workspace-spring-tool-suite-4-4.21.0.RELEASE\TuneHub\actions-runner\bin'
+[2024-02-24 14:52:08Z INFO HostContext] Well known directory 'Root': 'C:\Users\sriha\Documents\workspace-spring-tool-suite-4-4.21.0.RELEASE\TuneHub\actions-runner'
+[2024-02-24 14:52:08Z INFO HostContext] Well known config file 'Credentials': 'C:\Users\sriha\Documents\workspace-spring-tool-suite-4-4.21.0.RELEASE\TuneHub\actions-runner\.credentials'
+[2024-02-24 14:52:08Z INFO HostContext] Well known directory 'Bin': 'C:\Users\sriha\Documents\workspace-spring-tool-suite-4-4.21.0.RELEASE\TuneHub\actions-runner\bin'
+[2024-02-24 14:52:08Z INFO HostContext] Well known directory 'Root': 'C:\Users\sriha\Documents\workspace-spring-tool-suite-4-4.21.0.RELEASE\TuneHub\actions-runner'
+[2024-02-24 14:52:08Z INFO HostContext] Well known config file 'Runner': 'C:\Users\sriha\Documents\workspace-spring-tool-suite-4-4.21.0.RELEASE\TuneHub\actions-runner\.runner'
+[2024-02-24 14:52:08Z INFO Listener] Runner is built for Windows (X64) - win-x64.
+[2024-02-24 14:52:08Z INFO Listener] RuntimeInformation: Microsoft Windows 10.0.22631.
+[2024-02-24 14:52:08Z INFO Listener] Version: 2.313.0
+[2024-02-24 14:52:08Z INFO Listener] Commit: d502c4623e5cd140e949f1e644ffe03762bd4151
+[2024-02-24 14:52:08Z INFO Listener] Culture: en-US
+[2024-02-24 14:52:08Z INFO Listener] UI Culture: en-US
+[2024-02-24 14:52:08Z INFO HostContext] Well known directory 'Bin': 'C:\Users\sriha\Documents\workspace-spring-tool-suite-4-4.21.0.RELEASE\TuneHub\actions-runner\bin'
+[2024-02-24 14:52:08Z INFO HostContext] Well known directory 'Root': 'C:\Users\sriha\Documents\workspace-spring-tool-suite-4-4.21.0.RELEASE\TuneHub\actions-runner'
+[2024-02-24 14:52:08Z INFO Listener] Validating directory permissions for: 'C:\Users\sriha\Documents\workspace-spring-tool-suite-4-4.21.0.RELEASE\TuneHub\actions-runner'
+[2024-02-24 14:52:08Z INFO CommandLineParser] Parse
+[2024-02-24 14:52:08Z INFO CommandLineParser] Parsing 1 args
+[2024-02-24 14:52:08Z INFO CommandLineParser] parsing argument
+[2024-02-24 14:52:08Z INFO CommandLineParser] HasArgs: False
+[2024-02-24 14:52:08Z INFO CommandLineParser] Adding Command: run
+[2024-02-24 14:52:08Z INFO Listener] Arguments parsed
+[2024-02-24 14:52:09Z INFO Runner] ExecuteCommand
+[2024-02-24 14:52:09Z INFO ConfigurationStore] currentAssemblyLocation: C:\Users\sriha\Documents\workspace-spring-tool-suite-4-4.21.0.RELEASE\TuneHub\actions-runner\bin\Runner.Listener.dll
+[2024-02-24 14:52:09Z INFO HostContext] Well known directory 'Bin': 'C:\Users\sriha\Documents\workspace-spring-tool-suite-4-4.21.0.RELEASE\TuneHub\actions-runner\bin'
+[2024-02-24 14:52:09Z INFO ConfigurationStore] binPath: C:\Users\sriha\Documents\workspace-spring-tool-suite-4-4.21.0.RELEASE\TuneHub\actions-runner\bin
+[2024-02-24 14:52:09Z INFO HostContext] Well known directory 'Bin': 'C:\Users\sriha\Documents\workspace-spring-tool-suite-4-4.21.0.RELEASE\TuneHub\actions-runner\bin'
+[2024-02-24 14:52:09Z INFO HostContext] Well known directory 'Root': 'C:\Users\sriha\Documents\workspace-spring-tool-suite-4-4.21.0.RELEASE\TuneHub\actions-runner'
+[2024-02-24 14:52:09Z INFO ConfigurationStore] RootFolder: C:\Users\sriha\Documents\workspace-spring-tool-suite-4-4.21.0.RELEASE\TuneHub\actions-runner
+[2024-02-24 14:52:09Z INFO HostContext] Well known directory 'Bin': 'C:\Users\sriha\Documents\workspace-spring-tool-suite-4-4.21.0.RELEASE\TuneHub\actions-runner\bin'
+[2024-02-24 14:52:09Z INFO HostContext] Well known directory 'Root': 'C:\Users\sriha\Documents\workspace-spring-tool-suite-4-4.21.0.RELEASE\TuneHub\actions-runner'
+[2024-02-24 14:52:09Z INFO HostContext] Well known config file 'Runner': 'C:\Users\sriha\Documents\workspace-spring-tool-suite-4-4.21.0.RELEASE\TuneHub\actions-runner\.runner'
+[2024-02-24 14:52:09Z INFO ConfigurationStore] ConfigFilePath: C:\Users\sriha\Documents\workspace-spring-tool-suite-4-4.21.0.RELEASE\TuneHub\actions-runner\.runner
+[2024-02-24 14:52:09Z INFO HostContext] Well known directory 'Bin': 'C:\Users\sriha\Documents\workspace-spring-tool-suite-4-4.21.0.RELEASE\TuneHub\actions-runner\bin'
+[2024-02-24 14:52:09Z INFO HostContext] Well known directory 'Root': 'C:\Users\sriha\Documents\workspace-spring-tool-suite-4-4.21.0.RELEASE\TuneHub\actions-runner'
+[2024-02-24 14:52:09Z INFO HostContext] Well known config file 'Credentials': 'C:\Users\sriha\Documents\workspace-spring-tool-suite-4-4.21.0.RELEASE\TuneHub\actions-runner\.credentials'
+[2024-02-24 14:52:09Z INFO ConfigurationStore] CredFilePath: C:\Users\sriha\Documents\workspace-spring-tool-suite-4-4.21.0.RELEASE\TuneHub\actions-runner\.credentials
+[2024-02-24 14:52:09Z INFO HostContext] Well known directory 'Bin': 'C:\Users\sriha\Documents\workspace-spring-tool-suite-4-4.21.0.RELEASE\TuneHub\actions-runner\bin'
+[2024-02-24 14:52:09Z INFO HostContext] Well known directory 'Root': 'C:\Users\sriha\Documents\workspace-spring-tool-suite-4-4.21.0.RELEASE\TuneHub\actions-runner'
+[2024-02-24 14:52:09Z INFO HostContext] Well known config file 'MigratedCredentials': 'C:\Users\sriha\Documents\workspace-spring-tool-suite-4-4.21.0.RELEASE\TuneHub\actions-runner\.credentials_migrated'
+[2024-02-24 14:52:09Z INFO ConfigurationStore] MigratedCredFilePath: C:\Users\sriha\Documents\workspace-spring-tool-suite-4-4.21.0.RELEASE\TuneHub\actions-runner\.credentials_migrated
+[2024-02-24 14:52:09Z INFO HostContext] Well known directory 'Bin': 'C:\Users\sriha\Documents\workspace-spring-tool-suite-4-4.21.0.RELEASE\TuneHub\actions-runner\bin'
+[2024-02-24 14:52:09Z INFO HostContext] Well known directory 'Root': 'C:\Users\sriha\Documents\workspace-spring-tool-suite-4-4.21.0.RELEASE\TuneHub\actions-runner'
+[2024-02-24 14:52:09Z INFO HostContext] Well known config file 'Service': 'C:\Users\sriha\Documents\workspace-spring-tool-suite-4-4.21.0.RELEASE\TuneHub\actions-runner\.service'
+[2024-02-24 14:52:09Z INFO ConfigurationStore] ServiceConfigFilePath: C:\Users\sriha\Documents\workspace-spring-tool-suite-4-4.21.0.RELEASE\TuneHub\actions-runner\.service
+[2024-02-24 14:52:09Z INFO CommandSettings] Flag 'help': 'False'
+[2024-02-24 14:52:09Z INFO CommandSettings] Flag 'version': 'False'
+[2024-02-24 14:52:09Z INFO CommandSettings] Flag 'commit': 'False'
+[2024-02-24 14:52:09Z INFO CommandSettings] Flag 'check': 'False'
+[2024-02-24 14:52:09Z INFO CommandSettings] Command 'configure': 'False'
+[2024-02-24 14:52:09Z INFO CommandSettings] Command 'remove': 'False'
+[2024-02-24 14:52:09Z INFO CommandSettings] Command 'warmup': 'False'
+[2024-02-24 14:52:09Z INFO ConfigurationManager] LoadSettings
+[2024-02-24 14:52:09Z INFO ConfigurationStore] IsConfigured()
+[2024-02-24 14:52:09Z INFO ConfigurationStore] IsConfigured: True
+[2024-02-24 14:52:09Z INFO ConfigurationManager] Is configured: True
+[2024-02-24 14:52:09Z INFO ConfigurationStore] Read setting file: 304 chars
+[2024-02-24 14:52:09Z INFO ConfigurationManager] Settings Loaded
+[2024-02-24 14:52:09Z INFO ConfigurationStore] IsServiceConfigured()
+[2024-02-24 14:52:09Z INFO ConfigurationStore] IsServiceConfigured: False
+[2024-02-24 14:52:09Z INFO CommandSettings] Command 'run': 'True'
+[2024-02-24 14:52:09Z INFO ConfigurationStore] IsConfigured()
+[2024-02-24 14:52:09Z INFO ConfigurationStore] IsConfigured: True
+[2024-02-24 14:52:09Z INFO ConfigurationManager] Is configured: True
+[2024-02-24 14:52:09Z INFO Runner] Could not parse the argument value '' for StartupType. Defaulting to Manual
+[2024-02-24 14:52:09Z INFO Runner] Set runner startup type - Manual
+[2024-02-24 14:52:09Z INFO CommandSettings] Flag 'once': 'False'
+[2024-02-24 14:52:09Z INFO CommandSettings] Flag 'once': 'False'
+[2024-02-24 14:52:09Z INFO Runner] RunAsync
+[2024-02-24 14:52:09Z INFO ConfigurationManager] LoadSettings
+[2024-02-24 14:52:09Z INFO ConfigurationStore] IsConfigured()
+[2024-02-24 14:52:09Z INFO ConfigurationStore] IsConfigured: True
+[2024-02-24 14:52:09Z INFO ConfigurationManager] Is configured: True
+[2024-02-24 14:52:09Z INFO ConfigurationManager] Settings Loaded
+[2024-02-24 14:52:09Z INFO MessageListener] {
+  "AgentId": 21,
+  "AgentName": "LIGHTYAGAMI",
+  "PoolId": 1,
+  "PoolName": "Default",
+  "ServerUrl": "https://pipelinesghubeus7.actions.githubusercontent.com/aplPWYmUYQV2MbhzP7h8OY3ytkJqS6x6SOXzSjsg6VEw1g5vbQ/",
+  "GitHubUrl": "https://github.com/Srihari-00/TuneHub",
+  "WorkFolder": "_work"
+}
+[2024-02-24 14:52:09Z INFO MessageListener] Loading Credentials
+[2024-02-24 14:52:09Z INFO ConfigurationStore] HasCredentials()
+[2024-02-24 14:52:09Z INFO ConfigurationStore] stored True
+[2024-02-24 14:52:09Z INFO CredentialManager] GetCredentialProvider
+[2024-02-24 14:52:09Z INFO CredentialManager] Creating type OAuth
+[2024-02-24 14:52:09Z INFO CredentialManager] Creating credential type: OAuth
+[2024-02-24 14:52:09Z INFO HostContext] Well known directory 'Bin': 'C:\Users\sriha\Documents\workspace-spring-tool-suite-4-4.21.0.RELEASE\TuneHub\actions-runner\bin'
+[2024-02-24 14:52:09Z INFO HostContext] Well known directory 'Root': 'C:\Users\sriha\Documents\workspace-spring-tool-suite-4-4.21.0.RELEASE\TuneHub\actions-runner'
+[2024-02-24 14:52:09Z INFO HostContext] Well known config file 'RSACredentials': 'C:\Users\sriha\Documents\workspace-spring-tool-suite-4-4.21.0.RELEASE\TuneHub\actions-runner\.credentials_rsaparams'
+[2024-02-24 14:52:09Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\sriha\Documents\workspace-spring-tool-suite-4-4.21.0.RELEASE\TuneHub\actions-runner\.credentials_rsaparams
+[2024-02-24 14:52:09Z INFO MessageListener] Attempt to create session.
+[2024-02-24 14:52:09Z INFO MessageListener] Connecting to the Runner Server...
+[2024-02-24 14:52:09Z INFO RunnerServer] EstablishVssConnection
+[2024-02-24 14:52:09Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2024-02-24 14:52:09Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2024-02-24 14:52:09Z INFO RunnerServer] EstablishVssConnection
+[2024-02-24 14:52:09Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2024-02-24 14:52:09Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2024-02-24 14:52:09Z INFO RunnerServer] EstablishVssConnection
+[2024-02-24 14:52:09Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2024-02-24 14:52:09Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2024-02-24 14:52:11Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2024-02-24 14:52:11Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2024-02-24 14:52:11Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2024-02-24 14:52:11Z INFO MessageListener] VssConnection created
+[2024-02-24 14:52:11Z INFO Terminal] WRITE LINE: 
+[2024-02-24 14:52:11Z INFO Terminal] WRITE LINE: 
+[2024-02-24 14:52:11Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\sriha\Documents\workspace-spring-tool-suite-4-4.21.0.RELEASE\TuneHub\actions-runner\.credentials_rsaparams
+[2024-02-24 14:52:11Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\sriha\Documents\workspace-spring-tool-suite-4-4.21.0.RELEASE\TuneHub\actions-runner\.credentials_rsaparams
+[2024-02-24 14:52:13Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2024-02-24 14:52:13Z ERR  GitHubActionsService] POST request to https://pipelinesghubeus7.actions.githubusercontent.com/aplPWYmUYQV2MbhzP7h8OY3ytkJqS6x6SOXzSjsg6VEw1g5vbQ/_apis/distributedtask/pools/1/sessions failed. HTTP Status: Conflict
+[2024-02-24 14:52:13Z ERR  MessageListener] Catch exception during create session.
+[2024-02-24 14:52:13Z ERR  MessageListener] GitHub.DistributedTask.WebApi.TaskAgentSessionConflictException: The actions runner LIGHTYAGAMI already has an active session for owner LIGHTYAGAMI.
+   at GitHub.Services.WebApi.VssHttpClientBase.HandleResponseAsync(HttpResponseMessage response, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync(HttpRequestMessage message, HttpCompletionOption completionOption, Object userState, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync[T](HttpRequestMessage message, Object userState, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync[T](HttpMethod method, IEnumerable`1 additionalHeaders, Guid locationId, Object routeValues, ApiResourceVersion version, HttpContent content, IEnumerable`1 queryParameters, Object userState, CancellationToken cancellationToken)
+   at GitHub.Runner.Listener.MessageListener.CreateSessionAsync(CancellationToken token)
+[2024-02-24 14:52:13Z INFO MessageListener] The session for this runner already exists.
+[2024-02-24 14:52:13Z ERR  Terminal] WRITE ERROR: A session for this runner already exists.
+[2024-02-24 14:52:13Z INFO MessageListener] The session conflict exception haven't reached retry limit.
+[2024-02-24 14:52:13Z ERR  Terminal] WRITE ERROR: 2024-02-24 14:52:13Z: Runner connect error: The actions runner LIGHTYAGAMI already has an active session for owner LIGHTYAGAMI.. Retrying until reconnected.
+[2024-02-24 14:52:13Z INFO MessageListener] Sleeping for 30 seconds before retrying.
+[2024-02-24 14:52:43Z INFO MessageListener] Attempt to create session.
+[2024-02-24 14:52:43Z INFO MessageListener] Connecting to the Runner Server...
+[2024-02-24 14:52:43Z INFO RunnerServer] EstablishVssConnection
+[2024-02-24 14:52:43Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2024-02-24 14:52:43Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2024-02-24 14:52:43Z INFO RunnerServer] EstablishVssConnection
+[2024-02-24 14:52:43Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2024-02-24 14:52:43Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2024-02-24 14:52:43Z INFO RunnerServer] EstablishVssConnection
+[2024-02-24 14:52:43Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2024-02-24 14:52:43Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2024-02-24 14:52:45Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2024-02-24 14:52:45Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2024-02-24 14:52:45Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2024-02-24 14:52:45Z INFO MessageListener] VssConnection created
+[2024-02-24 14:52:45Z INFO Terminal] WRITE LINE: 
+[2024-02-24 14:52:45Z INFO Terminal] WRITE LINE: 
+[2024-02-24 14:52:46Z ERR  GitHubActionsService] POST request to https://pipelinesghubeus7.actions.githubusercontent.com/aplPWYmUYQV2MbhzP7h8OY3ytkJqS6x6SOXzSjsg6VEw1g5vbQ/_apis/distributedtask/pools/1/sessions failed. HTTP Status: Conflict
+[2024-02-24 14:52:46Z ERR  MessageListener] Catch exception during create session.
+[2024-02-24 14:52:46Z ERR  MessageListener] GitHub.DistributedTask.WebApi.TaskAgentSessionConflictException: The actions runner LIGHTYAGAMI already has an active session for owner LIGHTYAGAMI.
+   at GitHub.Services.WebApi.VssHttpClientBase.HandleResponseAsync(HttpResponseMessage response, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync(HttpRequestMessage message, HttpCompletionOption completionOption, Object userState, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync[T](HttpRequestMessage message, Object userState, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync[T](HttpMethod method, IEnumerable`1 additionalHeaders, Guid locationId, Object routeValues, ApiResourceVersion version, HttpContent content, IEnumerable`1 queryParameters, Object userState, CancellationToken cancellationToken)
+   at GitHub.Runner.Listener.MessageListener.CreateSessionAsync(CancellationToken token)
+[2024-02-24 14:52:46Z INFO MessageListener] The session for this runner already exists.
+[2024-02-24 14:52:46Z ERR  Terminal] WRITE ERROR: A session for this runner already exists.
+[2024-02-24 14:52:46Z INFO MessageListener] The session conflict exception haven't reached retry limit.
+[2024-02-24 14:52:46Z INFO MessageListener] Sleeping for 30 seconds before retrying.
+[2024-02-24 14:53:16Z INFO MessageListener] Attempt to create session.
+[2024-02-24 14:53:16Z INFO MessageListener] Connecting to the Runner Server...
+[2024-02-24 14:53:16Z INFO RunnerServer] EstablishVssConnection
+[2024-02-24 14:53:16Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2024-02-24 14:53:16Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2024-02-24 14:53:16Z INFO RunnerServer] EstablishVssConnection
+[2024-02-24 14:53:16Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2024-02-24 14:53:16Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2024-02-24 14:53:16Z INFO RunnerServer] EstablishVssConnection
+[2024-02-24 14:53:16Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2024-02-24 14:53:16Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2024-02-24 14:53:17Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2024-02-24 14:53:18Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2024-02-24 14:53:18Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2024-02-24 14:53:18Z INFO MessageListener] VssConnection created
+[2024-02-24 14:53:18Z INFO Terminal] WRITE LINE: 
+[2024-02-24 14:53:18Z INFO Terminal] WRITE LINE: 
+[2024-02-24 14:53:18Z ERR  GitHubActionsService] POST request to https://pipelinesghubeus7.actions.githubusercontent.com/aplPWYmUYQV2MbhzP7h8OY3ytkJqS6x6SOXzSjsg6VEw1g5vbQ/_apis/distributedtask/pools/1/sessions failed. HTTP Status: Conflict
+[2024-02-24 14:53:18Z ERR  MessageListener] Catch exception during create session.
+[2024-02-24 14:53:18Z ERR  MessageListener] GitHub.DistributedTask.WebApi.TaskAgentSessionConflictException: The actions runner LIGHTYAGAMI already has an active session for owner LIGHTYAGAMI.
+   at GitHub.Services.WebApi.VssHttpClientBase.HandleResponseAsync(HttpResponseMessage response, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync(HttpRequestMessage message, HttpCompletionOption completionOption, Object userState, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync[T](HttpRequestMessage message, Object userState, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync[T](HttpMethod method, IEnumerable`1 additionalHeaders, Guid locationId, Object routeValues, ApiResourceVersion version, HttpContent content, IEnumerable`1 queryParameters, Object userState, CancellationToken cancellationToken)
+   at GitHub.Runner.Listener.MessageListener.CreateSessionAsync(CancellationToken token)
+[2024-02-24 14:53:18Z INFO MessageListener] The session for this runner already exists.
+[2024-02-24 14:53:18Z ERR  Terminal] WRITE ERROR: A session for this runner already exists.
+[2024-02-24 14:53:18Z INFO MessageListener] The session conflict exception haven't reached retry limit.
+[2024-02-24 14:53:18Z INFO MessageListener] Sleeping for 30 seconds before retrying.
+[2024-02-24 14:53:48Z INFO MessageListener] Attempt to create session.
+[2024-02-24 14:53:48Z INFO MessageListener] Connecting to the Runner Server...
+[2024-02-24 14:53:48Z INFO RunnerServer] EstablishVssConnection
+[2024-02-24 14:53:48Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2024-02-24 14:53:48Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2024-02-24 14:53:48Z INFO RunnerServer] EstablishVssConnection
+[2024-02-24 14:53:48Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2024-02-24 14:53:48Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2024-02-24 14:53:48Z INFO RunnerServer] EstablishVssConnection
+[2024-02-24 14:53:48Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2024-02-24 14:53:48Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2024-02-24 14:53:50Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2024-02-24 14:53:50Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2024-02-24 14:53:50Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2024-02-24 14:53:50Z INFO MessageListener] VssConnection created
+[2024-02-24 14:53:50Z INFO Terminal] WRITE LINE: 
+[2024-02-24 14:53:50Z INFO Terminal] WRITE LINE: 
+[2024-02-24 14:53:50Z ERR  GitHubActionsService] POST request to https://pipelinesghubeus7.actions.githubusercontent.com/aplPWYmUYQV2MbhzP7h8OY3ytkJqS6x6SOXzSjsg6VEw1g5vbQ/_apis/distributedtask/pools/1/sessions failed. HTTP Status: Conflict
+[2024-02-24 14:53:50Z ERR  MessageListener] Catch exception during create session.
+[2024-02-24 14:53:50Z ERR  MessageListener] GitHub.DistributedTask.WebApi.TaskAgentSessionConflictException: The actions runner LIGHTYAGAMI already has an active session for owner LIGHTYAGAMI.
+   at GitHub.Services.WebApi.VssHttpClientBase.HandleResponseAsync(HttpResponseMessage response, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync(HttpRequestMessage message, HttpCompletionOption completionOption, Object userState, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync[T](HttpRequestMessage message, Object userState, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync[T](HttpMethod method, IEnumerable`1 additionalHeaders, Guid locationId, Object routeValues, ApiResourceVersion version, HttpContent content, IEnumerable`1 queryParameters, Object userState, CancellationToken cancellationToken)
+   at GitHub.Runner.Listener.MessageListener.CreateSessionAsync(CancellationToken token)
+[2024-02-24 14:53:50Z INFO MessageListener] The session for this runner already exists.
+[2024-02-24 14:53:50Z ERR  Terminal] WRITE ERROR: A session for this runner already exists.
+[2024-02-24 14:53:50Z INFO MessageListener] The session conflict exception haven't reached retry limit.
+[2024-02-24 14:53:50Z INFO MessageListener] Sleeping for 30 seconds before retrying.
+[2024-02-24 14:54:20Z INFO MessageListener] Attempt to create session.
+[2024-02-24 14:54:20Z INFO MessageListener] Connecting to the Runner Server...
+[2024-02-24 14:54:20Z INFO RunnerServer] EstablishVssConnection
+[2024-02-24 14:54:20Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2024-02-24 14:54:20Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2024-02-24 14:54:20Z INFO RunnerServer] EstablishVssConnection
+[2024-02-24 14:54:20Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2024-02-24 14:54:20Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2024-02-24 14:54:20Z INFO RunnerServer] EstablishVssConnection
+[2024-02-24 14:54:20Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2024-02-24 14:54:20Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2024-02-24 14:54:22Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2024-02-24 14:54:23Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2024-02-24 14:54:23Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2024-02-24 14:54:23Z INFO MessageListener] VssConnection created
+[2024-02-24 14:54:23Z INFO Terminal] WRITE LINE: 
+[2024-02-24 14:54:23Z INFO Terminal] WRITE LINE: 
+[2024-02-24 14:54:23Z ERR  GitHubActionsService] POST request to https://pipelinesghubeus7.actions.githubusercontent.com/aplPWYmUYQV2MbhzP7h8OY3ytkJqS6x6SOXzSjsg6VEw1g5vbQ/_apis/distributedtask/pools/1/sessions failed. HTTP Status: Conflict
+[2024-02-24 14:54:23Z ERR  MessageListener] Catch exception during create session.
+[2024-02-24 14:54:23Z ERR  MessageListener] GitHub.DistributedTask.WebApi.TaskAgentSessionConflictException: The actions runner LIGHTYAGAMI already has an active session for owner LIGHTYAGAMI.
+   at GitHub.Services.WebApi.VssHttpClientBase.HandleResponseAsync(HttpResponseMessage response, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync(HttpRequestMessage message, HttpCompletionOption completionOption, Object userState, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync[T](HttpRequestMessage message, Object userState, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync[T](HttpMethod method, IEnumerable`1 additionalHeaders, Guid locationId, Object routeValues, ApiResourceVersion version, HttpContent content, IEnumerable`1 queryParameters, Object userState, CancellationToken cancellationToken)
+   at GitHub.Runner.Listener.MessageListener.CreateSessionAsync(CancellationToken token)
+[2024-02-24 14:54:23Z INFO MessageListener] The session for this runner already exists.
+[2024-02-24 14:54:23Z ERR  Terminal] WRITE ERROR: A session for this runner already exists.
+[2024-02-24 14:54:23Z INFO MessageListener] The session conflict exception haven't reached retry limit.
+[2024-02-24 14:54:23Z INFO MessageListener] Sleeping for 30 seconds before retrying.
+[2024-02-24 14:54:53Z INFO MessageListener] Attempt to create session.
+[2024-02-24 14:54:53Z INFO MessageListener] Connecting to the Runner Server...
+[2024-02-24 14:54:53Z INFO RunnerServer] EstablishVssConnection
+[2024-02-24 14:54:53Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2024-02-24 14:54:53Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2024-02-24 14:54:53Z INFO RunnerServer] EstablishVssConnection
+[2024-02-24 14:54:53Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2024-02-24 14:54:53Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2024-02-24 14:54:53Z INFO RunnerServer] EstablishVssConnection
+[2024-02-24 14:54:53Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2024-02-24 14:54:53Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2024-02-24 14:54:55Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2024-02-24 14:54:55Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2024-02-24 14:54:55Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2024-02-24 14:54:55Z INFO MessageListener] VssConnection created
+[2024-02-24 14:54:55Z INFO Terminal] WRITE LINE: 
+[2024-02-24 14:54:55Z INFO Terminal] WRITE LINE: 
+[2024-02-24 14:54:55Z ERR  GitHubActionsService] POST request to https://pipelinesghubeus7.actions.githubusercontent.com/aplPWYmUYQV2MbhzP7h8OY3ytkJqS6x6SOXzSjsg6VEw1g5vbQ/_apis/distributedtask/pools/1/sessions failed. HTTP Status: Conflict
+[2024-02-24 14:54:55Z ERR  MessageListener] Catch exception during create session.
+[2024-02-24 14:54:55Z ERR  MessageListener] GitHub.DistributedTask.WebApi.TaskAgentSessionConflictException: The actions runner LIGHTYAGAMI already has an active session for owner LIGHTYAGAMI.
+   at GitHub.Services.WebApi.VssHttpClientBase.HandleResponseAsync(HttpResponseMessage response, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync(HttpRequestMessage message, HttpCompletionOption completionOption, Object userState, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync[T](HttpRequestMessage message, Object userState, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync[T](HttpMethod method, IEnumerable`1 additionalHeaders, Guid locationId, Object routeValues, ApiResourceVersion version, HttpContent content, IEnumerable`1 queryParameters, Object userState, CancellationToken cancellationToken)
+   at GitHub.Runner.Listener.MessageListener.CreateSessionAsync(CancellationToken token)
+[2024-02-24 14:54:55Z INFO MessageListener] The session for this runner already exists.
+[2024-02-24 14:54:55Z ERR  Terminal] WRITE ERROR: A session for this runner already exists.
+[2024-02-24 14:54:55Z INFO MessageListener] The session conflict exception haven't reached retry limit.
+[2024-02-24 14:54:55Z INFO MessageListener] Sleeping for 30 seconds before retrying.
+[2024-02-24 14:55:25Z INFO MessageListener] Attempt to create session.
+[2024-02-24 14:55:25Z INFO MessageListener] Connecting to the Runner Server...
+[2024-02-24 14:55:25Z INFO RunnerServer] EstablishVssConnection
+[2024-02-24 14:55:25Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2024-02-24 14:55:25Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2024-02-24 14:55:25Z INFO RunnerServer] EstablishVssConnection
+[2024-02-24 14:55:25Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2024-02-24 14:55:25Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2024-02-24 14:55:25Z INFO RunnerServer] EstablishVssConnection
+[2024-02-24 14:55:25Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2024-02-24 14:55:25Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2024-02-24 14:55:27Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2024-02-24 14:55:27Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2024-02-24 14:55:27Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2024-02-24 14:55:27Z INFO MessageListener] VssConnection created
+[2024-02-24 14:55:27Z INFO Terminal] WRITE LINE: 
+[2024-02-24 14:55:27Z INFO Terminal] WRITE LINE: 
+[2024-02-24 14:55:28Z ERR  GitHubActionsService] POST request to https://pipelinesghubeus7.actions.githubusercontent.com/aplPWYmUYQV2MbhzP7h8OY3ytkJqS6x6SOXzSjsg6VEw1g5vbQ/_apis/distributedtask/pools/1/sessions failed. HTTP Status: Conflict
+[2024-02-24 14:55:28Z ERR  MessageListener] Catch exception during create session.
+[2024-02-24 14:55:28Z ERR  MessageListener] GitHub.DistributedTask.WebApi.TaskAgentSessionConflictException: The actions runner LIGHTYAGAMI already has an active session for owner LIGHTYAGAMI.
+   at GitHub.Services.WebApi.VssHttpClientBase.HandleResponseAsync(HttpResponseMessage response, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync(HttpRequestMessage message, HttpCompletionOption completionOption, Object userState, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync[T](HttpRequestMessage message, Object userState, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync[T](HttpMethod method, IEnumerable`1 additionalHeaders, Guid locationId, Object routeValues, ApiResourceVersion version, HttpContent content, IEnumerable`1 queryParameters, Object userState, CancellationToken cancellationToken)
+   at GitHub.Runner.Listener.MessageListener.CreateSessionAsync(CancellationToken token)
+[2024-02-24 14:55:28Z INFO MessageListener] The session for this runner already exists.
+[2024-02-24 14:55:28Z ERR  Terminal] WRITE ERROR: A session for this runner already exists.
+[2024-02-24 14:55:28Z INFO MessageListener] The session conflict exception haven't reached retry limit.
+[2024-02-24 14:55:28Z INFO MessageListener] Sleeping for 30 seconds before retrying.
+[2024-02-24 14:55:58Z INFO MessageListener] Attempt to create session.
+[2024-02-24 14:55:58Z INFO MessageListener] Connecting to the Runner Server...
+[2024-02-24 14:55:58Z INFO RunnerServer] EstablishVssConnection
+[2024-02-24 14:55:58Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2024-02-24 14:55:58Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2024-02-24 14:55:58Z INFO RunnerServer] EstablishVssConnection
+[2024-02-24 14:55:58Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2024-02-24 14:55:58Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2024-02-24 14:55:58Z INFO RunnerServer] EstablishVssConnection
+[2024-02-24 14:55:58Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2024-02-24 14:55:58Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2024-02-24 14:55:59Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2024-02-24 14:55:59Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2024-02-24 14:55:59Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2024-02-24 14:55:59Z INFO MessageListener] VssConnection created
+[2024-02-24 14:55:59Z INFO Terminal] WRITE LINE: 
+[2024-02-24 14:55:59Z INFO Terminal] WRITE LINE: 
+[2024-02-24 14:56:00Z ERR  GitHubActionsService] POST request to https://pipelinesghubeus7.actions.githubusercontent.com/aplPWYmUYQV2MbhzP7h8OY3ytkJqS6x6SOXzSjsg6VEw1g5vbQ/_apis/distributedtask/pools/1/sessions failed. HTTP Status: Conflict
+[2024-02-24 14:56:00Z ERR  MessageListener] Catch exception during create session.
+[2024-02-24 14:56:00Z ERR  MessageListener] GitHub.DistributedTask.WebApi.TaskAgentSessionConflictException: The actions runner LIGHTYAGAMI already has an active session for owner LIGHTYAGAMI.
+   at GitHub.Services.WebApi.VssHttpClientBase.HandleResponseAsync(HttpResponseMessage response, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync(HttpRequestMessage message, HttpCompletionOption completionOption, Object userState, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync[T](HttpRequestMessage message, Object userState, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync[T](HttpMethod method, IEnumerable`1 additionalHeaders, Guid locationId, Object routeValues, ApiResourceVersion version, HttpContent content, IEnumerable`1 queryParameters, Object userState, CancellationToken cancellationToken)
+   at GitHub.Runner.Listener.MessageListener.CreateSessionAsync(CancellationToken token)
+[2024-02-24 14:56:00Z INFO MessageListener] The session for this runner already exists.
+[2024-02-24 14:56:00Z ERR  Terminal] WRITE ERROR: A session for this runner already exists.
+[2024-02-24 14:56:00Z INFO MessageListener] The session conflict exception have reached retry limit.
+[2024-02-24 14:56:00Z ERR  Terminal] WRITE ERROR: Stop retry on SessionConflictException after retried for 240 seconds.
+[2024-02-24 14:56:00Z ERR  Terminal] WRITE ERROR: Failed to create session. The actions runner LIGHTYAGAMI already has an active session for owner LIGHTYAGAMI.
+[2024-02-24 14:56:00Z INFO Listener] Runner execution has finished with return code 1

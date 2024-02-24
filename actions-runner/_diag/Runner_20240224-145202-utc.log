@@ -1,0 +1,85 @@
+[2024-02-24 14:52:02Z INFO HostContext] No proxy settings were found based on environmental variables (http_proxy/https_proxy/HTTP_PROXY/HTTPS_PROXY)
+[2024-02-24 14:52:02Z INFO HostContext] Well known directory 'Bin': 'C:\Users\sriha\Documents\workspace-spring-tool-suite-4-4.21.0.RELEASE\TuneHub\actions-runner\bin'
+[2024-02-24 14:52:02Z INFO HostContext] Well known directory 'Root': 'C:\Users\sriha\Documents\workspace-spring-tool-suite-4-4.21.0.RELEASE\TuneHub\actions-runner'
+[2024-02-24 14:52:02Z INFO HostContext] Well known config file 'Credentials': 'C:\Users\sriha\Documents\workspace-spring-tool-suite-4-4.21.0.RELEASE\TuneHub\actions-runner\.credentials'
+[2024-02-24 14:52:02Z INFO HostContext] Well known directory 'Bin': 'C:\Users\sriha\Documents\workspace-spring-tool-suite-4-4.21.0.RELEASE\TuneHub\actions-runner\bin'
+[2024-02-24 14:52:02Z INFO HostContext] Well known directory 'Root': 'C:\Users\sriha\Documents\workspace-spring-tool-suite-4-4.21.0.RELEASE\TuneHub\actions-runner'
+[2024-02-24 14:52:02Z INFO HostContext] Well known config file 'Runner': 'C:\Users\sriha\Documents\workspace-spring-tool-suite-4-4.21.0.RELEASE\TuneHub\actions-runner\.runner'
+[2024-02-24 14:52:02Z INFO Listener] Runner is built for Windows (X64) - win-x64.
+[2024-02-24 14:52:02Z INFO Listener] RuntimeInformation: Microsoft Windows 10.0.22631.
+[2024-02-24 14:52:02Z INFO Listener] Version: 2.313.0
+[2024-02-24 14:52:02Z INFO Listener] Commit: d502c4623e5cd140e949f1e644ffe03762bd4151
+[2024-02-24 14:52:02Z INFO Listener] Culture: en-US
+[2024-02-24 14:52:02Z INFO Listener] UI Culture: en-US
+[2024-02-24 14:52:02Z INFO HostContext] Well known directory 'Bin': 'C:\Users\sriha\Documents\workspace-spring-tool-suite-4-4.21.0.RELEASE\TuneHub\actions-runner\bin'
+[2024-02-24 14:52:02Z INFO HostContext] Well known directory 'Root': 'C:\Users\sriha\Documents\workspace-spring-tool-suite-4-4.21.0.RELEASE\TuneHub\actions-runner'
+[2024-02-24 14:52:02Z INFO Listener] Validating directory permissions for: 'C:\Users\sriha\Documents\workspace-spring-tool-suite-4-4.21.0.RELEASE\TuneHub\actions-runner'
+[2024-02-24 14:52:02Z INFO CommandLineParser] Parse
+[2024-02-24 14:52:02Z INFO CommandLineParser] Parsing 5 args
+[2024-02-24 14:52:02Z INFO CommandLineParser] parsing argument
+[2024-02-24 14:52:02Z INFO CommandLineParser] HasArgs: False
+[2024-02-24 14:52:02Z INFO CommandLineParser] Adding Command: configure
+[2024-02-24 14:52:02Z INFO CommandLineParser] parsing argument
+[2024-02-24 14:52:02Z INFO CommandLineParser] HasArgs: True
+[2024-02-24 14:52:02Z INFO CommandLineParser] arg: url
+[2024-02-24 14:52:02Z INFO CommandLineParser] parsing argument
+[2024-02-24 14:52:02Z INFO CommandLineParser] HasArgs: True
+[2024-02-24 14:52:02Z INFO CommandLineParser] Adding option 'url': 'https://github.com/Srihari-00/TuneHub'
+[2024-02-24 14:52:02Z INFO CommandLineParser] parsing argument
+[2024-02-24 14:52:02Z INFO CommandLineParser] HasArgs: True
+[2024-02-24 14:52:02Z INFO CommandLineParser] arg: token
+[2024-02-24 14:52:02Z INFO CommandLineParser] parsing argument
+[2024-02-24 14:52:02Z INFO CommandLineParser] HasArgs: True
+[2024-02-24 14:52:02Z INFO CommandLineParser] Adding option 'token': '***'
+[2024-02-24 14:52:02Z INFO Listener] Arguments parsed
+[2024-02-24 14:52:02Z INFO Runner] ExecuteCommand
+[2024-02-24 14:52:02Z INFO ConfigurationStore] currentAssemblyLocation: C:\Users\sriha\Documents\workspace-spring-tool-suite-4-4.21.0.RELEASE\TuneHub\actions-runner\bin\Runner.Listener.dll
+[2024-02-24 14:52:02Z INFO HostContext] Well known directory 'Bin': 'C:\Users\sriha\Documents\workspace-spring-tool-suite-4-4.21.0.RELEASE\TuneHub\actions-runner\bin'
+[2024-02-24 14:52:02Z INFO ConfigurationStore] binPath: C:\Users\sriha\Documents\workspace-spring-tool-suite-4-4.21.0.RELEASE\TuneHub\actions-runner\bin
+[2024-02-24 14:52:02Z INFO HostContext] Well known directory 'Bin': 'C:\Users\sriha\Documents\workspace-spring-tool-suite-4-4.21.0.RELEASE\TuneHub\actions-runner\bin'
+[2024-02-24 14:52:02Z INFO HostContext] Well known directory 'Root': 'C:\Users\sriha\Documents\workspace-spring-tool-suite-4-4.21.0.RELEASE\TuneHub\actions-runner'
+[2024-02-24 14:52:02Z INFO ConfigurationStore] RootFolder: C:\Users\sriha\Documents\workspace-spring-tool-suite-4-4.21.0.RELEASE\TuneHub\actions-runner
+[2024-02-24 14:52:02Z INFO HostContext] Well known directory 'Bin': 'C:\Users\sriha\Documents\workspace-spring-tool-suite-4-4.21.0.RELEASE\TuneHub\actions-runner\bin'
+[2024-02-24 14:52:02Z INFO HostContext] Well known directory 'Root': 'C:\Users\sriha\Documents\workspace-spring-tool-suite-4-4.21.0.RELEASE\TuneHub\actions-runner'
+[2024-02-24 14:52:02Z INFO HostContext] Well known config file 'Runner': 'C:\Users\sriha\Documents\workspace-spring-tool-suite-4-4.21.0.RELEASE\TuneHub\actions-runner\.runner'
+[2024-02-24 14:52:02Z INFO ConfigurationStore] ConfigFilePath: C:\Users\sriha\Documents\workspace-spring-tool-suite-4-4.21.0.RELEASE\TuneHub\actions-runner\.runner
+[2024-02-24 14:52:02Z INFO HostContext] Well known directory 'Bin': 'C:\Users\sriha\Documents\workspace-spring-tool-suite-4-4.21.0.RELEASE\TuneHub\actions-runner\bin'
+[2024-02-24 14:52:02Z INFO HostContext] Well known directory 'Root': 'C:\Users\sriha\Documents\workspace-spring-tool-suite-4-4.21.0.RELEASE\TuneHub\actions-runner'
+[2024-02-24 14:52:02Z INFO HostContext] Well known config file 'Credentials': 'C:\Users\sriha\Documents\workspace-spring-tool-suite-4-4.21.0.RELEASE\TuneHub\actions-runner\.credentials'
+[2024-02-24 14:52:02Z INFO ConfigurationStore] CredFilePath: C:\Users\sriha\Documents\workspace-spring-tool-suite-4-4.21.0.RELEASE\TuneHub\actions-runner\.credentials
+[2024-02-24 14:52:02Z INFO HostContext] Well known directory 'Bin': 'C:\Users\sriha\Documents\workspace-spring-tool-suite-4-4.21.0.RELEASE\TuneHub\actions-runner\bin'
+[2024-02-24 14:52:02Z INFO HostContext] Well known directory 'Root': 'C:\Users\sriha\Documents\workspace-spring-tool-suite-4-4.21.0.RELEASE\TuneHub\actions-runner'
+[2024-02-24 14:52:02Z INFO HostContext] Well known config file 'MigratedCredentials': 'C:\Users\sriha\Documents\workspace-spring-tool-suite-4-4.21.0.RELEASE\TuneHub\actions-runner\.credentials_migrated'
+[2024-02-24 14:52:02Z INFO ConfigurationStore] MigratedCredFilePath: C:\Users\sriha\Documents\workspace-spring-tool-suite-4-4.21.0.RELEASE\TuneHub\actions-runner\.credentials_migrated
+[2024-02-24 14:52:02Z INFO HostContext] Well known directory 'Bin': 'C:\Users\sriha\Documents\workspace-spring-tool-suite-4-4.21.0.RELEASE\TuneHub\actions-runner\bin'
+[2024-02-24 14:52:02Z INFO HostContext] Well known directory 'Root': 'C:\Users\sriha\Documents\workspace-spring-tool-suite-4-4.21.0.RELEASE\TuneHub\actions-runner'
+[2024-02-24 14:52:02Z INFO HostContext] Well known config file 'Service': 'C:\Users\sriha\Documents\workspace-spring-tool-suite-4-4.21.0.RELEASE\TuneHub\actions-runner\.service'
+[2024-02-24 14:52:02Z INFO ConfigurationStore] ServiceConfigFilePath: C:\Users\sriha\Documents\workspace-spring-tool-suite-4-4.21.0.RELEASE\TuneHub\actions-runner\.service
+[2024-02-24 14:52:02Z INFO CommandSettings] Flag 'help': 'False'
+[2024-02-24 14:52:02Z INFO CommandSettings] Flag 'version': 'False'
+[2024-02-24 14:52:02Z INFO CommandSettings] Flag 'commit': 'False'
+[2024-02-24 14:52:02Z INFO CommandSettings] Flag 'check': 'False'
+[2024-02-24 14:52:02Z INFO CommandSettings] Command 'configure': 'True'
+[2024-02-24 14:52:02Z INFO Terminal] WRITE LINE: 
+[2024-02-24 14:52:02Z INFO Terminal] WRITE LINE: --------------------------------------------------------------------------------
+[2024-02-24 14:52:02Z INFO Terminal] WRITE LINE: |        ____ _ _   _   _       _          _        _   _                      |
+[2024-02-24 14:52:02Z INFO Terminal] WRITE LINE: |       / ___(_) |_| | | |_   _| |__      / \   ___| |_(_) ___  _ __  ___      |
+[2024-02-24 14:52:02Z INFO Terminal] WRITE LINE: |      | |  _| | __| |_| | | | | '_ \    / _ \ / __| __| |/ _ \| '_ \/ __|     |
+[2024-02-24 14:52:02Z INFO Terminal] WRITE LINE: |      | |_| | | |_|  _  | |_| | |_) |  / ___ \ (__| |_| | (_) | | | \__ \     |
+[2024-02-24 14:52:02Z INFO Terminal] WRITE LINE: |       \____|_|\__|_| |_|\__,_|_.__/  /_/   \_\___|\__|_|\___/|_| |_|___/     |
+[2024-02-24 14:52:02Z INFO Terminal] WRITE LINE: |                                                                              |
+[2024-02-24 14:52:02Z INFO Terminal] WRITE: |                       
+[2024-02-24 14:52:02Z INFO Terminal] WRITE: Self-hosted runner registration
+[2024-02-24 14:52:02Z INFO Terminal] WRITE LINE:                         |
+[2024-02-24 14:52:02Z INFO Terminal] WRITE LINE: |                                                                              |
+[2024-02-24 14:52:02Z INFO Terminal] WRITE LINE: --------------------------------------------------------------------------------
+[2024-02-24 14:52:02Z INFO ConfigurationManager] ConfigureAsync
+[2024-02-24 14:52:02Z INFO CommandSettings] Flag 'generateServiceConfig': 'False'
+[2024-02-24 14:52:02Z INFO ConfigurationStore] IsConfigured()
+[2024-02-24 14:52:02Z INFO ConfigurationStore] IsConfigured: True
+[2024-02-24 14:52:02Z INFO ConfigurationManager] Is configured: True
+[2024-02-24 14:52:02Z ERR  Runner] System.InvalidOperationException: Cannot configure the runner because it is already configured. To reconfigure the runner, run 'config.cmd remove' or './config.sh remove' first.
+   at GitHub.Runner.Listener.Configuration.ConfigurationManager.ConfigureAsync(CommandSettings command)
+   at GitHub.Runner.Listener.Runner.ExecuteCommand(CommandSettings command)
+[2024-02-24 14:52:02Z ERR  Terminal] WRITE ERROR: Cannot configure the runner because it is already configured. To reconfigure the runner, run 'config.cmd remove' or './config.sh remove' first.
+[2024-02-24 14:52:02Z INFO Listener] Runner execution has finished with return code 1
