@@ -1,31 +1,56 @@
 @charset "ISO-8859-1";
 body {
-    font-family: Arial, sans-serif;
-    background-color: aqua;
-    margin: 0;
-    padding: 0;
+  background-color: orange;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+}
+.outer {
+  background-color: white;
+  border-radius: 10px;
+  padding: 30px;
+  box-sizing: border-box;
+  width: 580px;
+  box-shadow: 3px 3px 5px grey;
+  text-align: center;
+  margin: auto;
+}
+.outer h2 {
+  font-family: cursive;
+  font-weight: bold;
+  margin: 0;
 }
 
-h1, h3 {
-    color: #333;
-    justify-content: flex-start;
-    
+.outer p {
+  font-weight: normal;
+  color: grey;
+  font-family: cursive;
+  font-weight: bold;
+  font-size: 14px;
 }
 
-div {
-    margin-top: 50px;
-    text-align: center;
+.inner a {
+  display: block; /* Ensures the link behaves like a block-level element */
+  width: 100%; /* Makes the buttons span the full width */
+  margin: 9px 0;
+  padding: 10px; /* Adjust the padding for better button size */
+  font-family: cursive;
+  font-weight: bold;
+  text-decoration: none;
+  background-color: orangered;
+  color: white; /* Better contrast for button text */
+  border-radius: 25px;
+  font-size: 14px;
+  box-sizing: border-box;
+}
+.outer a {
+  width: 100%;
 }
 
-a {
-    display: inline-block;
-    padding: 10px 20px;
-    background-color: #007bff;
-    color: #fff;
-    text-decoration: none;
-    border-radius: 5px;
-}
-
-a:hover {
-    background-color: #0056b3;
+.inner a:hover{
+  cursor: pointer;
+  background-color: lightsalmon;
+  color: black;
 }
